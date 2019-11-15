@@ -6,6 +6,7 @@ import ClassComponent from './components/ClassComponent';
 import FunctionalComponent from './components/FunctionalComponent';
 import StateComponent from './components/StateComponent';
 import PropsComponent from './components/PropsComponent';
+import Events from './components/Events';
 
 
 const App = () => {
@@ -18,7 +19,8 @@ const App = () => {
       {/* <FunctionalComponent /> */}
       {/* <StateComponent /> */}
       {/* add / reme props */}
-      <PropsComponent msg="Welcome, I'm Imed Jaberi 👋"  /> 
+      {/* <PropsComponent msg="Welcome, I'm Imed Jaberi 👋"  />  */}
+      <Events />
     </div>
   );
 }
