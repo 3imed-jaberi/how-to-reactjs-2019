@@ -4,6 +4,7 @@ import './App.css';
 // All Components .. 
 import ClassComponent from './components/ClassComponent';
 import FunctionalComponent from './components/FunctionalComponent';
+import StateComponent from './components/StateComponent';
 
 
 const App = () => {
@@ -13,7 +14,8 @@ const App = () => {
       <br />
       {/* content */}
       {/* <ClassComponent /> */}
-      <FunctionalComponent />
+      {/* <FunctionalComponent /> */}
+      <StateComponent />
     </div>
   );
 }
