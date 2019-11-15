@@ -8,6 +8,7 @@ import StateComponent from './components/StateComponent';
 import PropsComponent from './components/PropsComponent';
 import Events from './components/Events';
 import ReverseProps from './components/ReverseProps';
+import ContditionalRendering from './components/ContditionalRendering';
 
 
 const App = () => {
@@ -22,7 +23,8 @@ const App = () => {
       {/* add / reme props */}
       {/* <PropsComponent msg="Welcome, I'm Imed Jaberi 👋"  />  */}
       {/* <Events /> */}
-      <ReverseProps />
+      {/* <ReverseProps /> */}
+      <ContditionalRendering />
     </div>
   );
 }
