@@ -13,3 +13,9 @@ img {
   height: 50px;
   width: 55px;
 }
+
+/* Right way to add CSS libs to REACT app  */
+
+/* 
+@import "~bootstrap/dist/css/bootstrap.min.css" ;
+*/
