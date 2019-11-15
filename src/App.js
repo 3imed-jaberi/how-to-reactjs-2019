@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import logo from './assets/img/react.png';
 import './App.css';
@@ -28,7 +29,7 @@ const App = () => {
       {/* <ReverseProps /> */}
       {/* <ContditionalRendering /> */}
       {/* <ListRendering /> */}
-      <Lifecycle />
+      {/* <Lifecycle /> */}
     </div>
   );
 }

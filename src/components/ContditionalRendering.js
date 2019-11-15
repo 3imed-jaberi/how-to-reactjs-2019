@@ -1,4 +1,6 @@
-import React, { Component } from 'react'
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable jsx-a11y/accessible-emoji */
+import React, { Component } from 'react';
 import loader from '../assets/img/loader.gif';
 
 
