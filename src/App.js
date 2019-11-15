@@ -5,6 +5,7 @@ import './App.css';
 import ClassComponent from './components/ClassComponent';
 import FunctionalComponent from './components/FunctionalComponent';
 import StateComponent from './components/StateComponent';
+import PropsComponent from './components/PropsComponent';
 
 
 const App = () => {
@@ -15,7 +16,9 @@ const App = () => {
       {/* content */}
       {/* <ClassComponent /> */}
       {/* <FunctionalComponent /> */}
-      <StateComponent />
+      {/* <StateComponent /> */}
+      {/* add / reme props */}
+      <PropsComponent msg="Welcome, I'm Imed Jaberi 👋"  /> 
     </div>
   );
 }
