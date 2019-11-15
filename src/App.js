@@ -9,6 +9,7 @@ import PropsComponent from './components/PropsComponent';
 import Events from './components/Events';
 import ReverseProps from './components/ReverseProps';
 import ContditionalRendering from './components/ContditionalRendering';
+import ListRendering from './components/ListRendering';
 
 
 const App = () => {
@@ -24,7 +25,8 @@ const App = () => {
       {/* <PropsComponent msg="Welcome, I'm Imed Jaberi 👋"  />  */}
       {/* <Events /> */}
       {/* <ReverseProps /> */}
-      <ContditionalRendering />
+      {/* <ContditionalRendering /> */}
+      <ListRendering />
     </div>
   );
 }
