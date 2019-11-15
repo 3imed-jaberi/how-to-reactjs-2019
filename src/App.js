@@ -3,6 +3,8 @@ import logo from './assets/img/react.png';
 import './App.css';
 // All Components .. 
 import ClassComponent from './components/ClassComponent';
+import FunctionalCompoent from './components/ClassComponent';
+
 
 const App = () => {
   return (
@@ -10,7 +12,8 @@ const App = () => {
       <h1 className="alert alert-success" style={{ background: "green", color: "white",   marginTop: '100px' }}> Welcome to <img src={logo} /> ! </h1> {/* => using bootstrap class */}
       <br />
       {/* content */}
-      <ClassComponent />
+      {/*  <ClassComponent /> */}
+      <FunctionalCompoent />
     </div>
   );
 }
