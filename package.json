@@ -2,6 +2,33 @@
   "name": "how-to-reactjs-fsjegj-2019",
   "version": "0.1.0",
   "private": true,
+  "description": " Quick start with React.js 🚀 .. ",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:3imed-jaberi/how-to-reactjs-fsjegj-2019.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-native",
+    "jsx",
+    "spa",
+    "front-end",
+    "fsjegj",
+    "workshop",
+    "jandouba"
+  ],
+  "author": {
+    "name": "imed jaberi",
+    "email": "imed_jebari@hotmail.fr",
+    "url": "https://github.com/3imed-jaberi"
+  },
+  "license": "GPLv3",
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6",
+    "yarn": ">=1"
+  },
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -11,7 +38,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint ."
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -23,9 +51,13 @@
       "not op_mini all"
     ],
     "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+      "last 2 chrome version",
+      "last 2 firefox version",
+      "last 2 safari version"
     ]
-  }
+  },
+  "bugs": {
+    "url": "git+https://github.com/3imed-jaberi/how-to-reactjs-fsjegj-2019/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/how-to-reactjs-fsjegj-2019#readme"
 }
