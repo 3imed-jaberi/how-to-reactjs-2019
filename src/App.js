@@ -7,6 +7,7 @@ import FunctionalComponent from './components/FunctionalComponent';
 import StateComponent from './components/StateComponent';
 import PropsComponent from './components/PropsComponent';
 import Events from './components/Events';
+import ReverseProps from './components/ReverseProps';
 
 
 const App = () => {
@@ -20,7 +21,8 @@ const App = () => {
       {/* <StateComponent /> */}
       {/* add / reme props */}
       {/* <PropsComponent msg="Welcome, I'm Imed Jaberi 👋"  />  */}
-      <Events />
+      {/* <Events /> */}
+      <ReverseProps />
     </div>
   );
 }
