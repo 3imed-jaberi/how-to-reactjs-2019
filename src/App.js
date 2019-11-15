@@ -3,15 +3,16 @@ import React from 'react';
 import logo from './assets/img/react.png';
 import './App.css';
 // All Components .. 
-import ClassComponent from './components/ClassComponent';
-import FunctionalComponent from './components/FunctionalComponent';
-import StateComponent from './components/StateComponent';
-import PropsComponent from './components/PropsComponent';
-import Events from './components/Events';
-import ReverseProps from './components/ReverseProps';
-import ContditionalRendering from './components/ContditionalRendering';
-import ListRendering from './components/ListRendering';
-import Lifecycle from './components/Lifecycle';
+// import ClassComponent from './components/ClassComponent';
+// import FunctionalComponent from './components/FunctionalComponent';
+// import StateComponent from './components/StateComponent';
+// import PropsComponent from './components/PropsComponent';
+// import Events from './components/Events';
+// import ReverseProps from './components/ReverseProps';
+// import ContditionalRendering from './components/ContditionalRendering';
+// import ListRendering from './components/ListRendering';
+// import Lifecycle from './components/Lifecycle';
+
 
 
 const App = () => {
