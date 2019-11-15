@@ -1,6 +1,6 @@
 {
   "name": "how-to-reactjs-fsjegj-2019",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": " Quick start with React.js 🚀 .. ",
   "repository": {
@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
