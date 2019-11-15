@@ -10,6 +10,7 @@ import Events from './components/Events';
 import ReverseProps from './components/ReverseProps';
 import ContditionalRendering from './components/ContditionalRendering';
 import ListRendering from './components/ListRendering';
+import Lifecycle from './components/Lifecycle';
 
 
 const App = () => {
@@ -26,7 +27,8 @@ const App = () => {
       {/* <Events /> */}
       {/* <ReverseProps /> */}
       {/* <ContditionalRendering /> */}
-      <ListRendering />
+      {/* <ListRendering /> */}
+      <Lifecycle />
     </div>
   );
 }
