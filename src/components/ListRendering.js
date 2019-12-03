@@ -60,4 +60,4 @@ class ListRendering extends Component {
 }
 
 
-export default ListRendering;
+export { ListRendering };

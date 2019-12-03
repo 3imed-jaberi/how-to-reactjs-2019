@@ -52,4 +52,4 @@ class Parent extends Component {
 
 
 // ReverseProps
-export default Parent ;
+export { Parent as ReverseProps };

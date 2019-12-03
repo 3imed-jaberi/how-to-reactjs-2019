@@ -15,4 +15,4 @@ function FunctionalComponent () {
 // const FunctionalComponent = () => <h1> Hello, I'm Functional Component 🌟 ! </h1> ;
 
 
-export default FunctionalComponent;
+export { FunctionalComponent };

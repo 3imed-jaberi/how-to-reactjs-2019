@@ -24,4 +24,4 @@ PropsComponent.propTypes = {
 }
 
 
-export default PropsComponent;
+export { PropsComponent };

@@ -17,4 +17,4 @@ class StateComponent extends Component {
 }
 
 
-export default StateComponent;
+export { StateComponent };

@@ -15,4 +15,4 @@ class ClassComponent extends Component {
 }
 
 
-export default ClassComponent;
+export { ClassComponent };

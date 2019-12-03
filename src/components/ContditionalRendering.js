@@ -35,4 +35,4 @@ class ContditionalRendering extends Component {
 }
 
 
-export default ContditionalRendering;
+export { ContditionalRendering };
