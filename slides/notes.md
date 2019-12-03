@@ -11,4 +11,6 @@
  - Conditional Rendering 
  - List & Keys
  - LifeCycle Hooks
+ - Routing 
+ - Services
  - Talk About Some Practice 
