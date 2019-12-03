@@ -1,4 +1,4 @@
-# HOW TO REACTJS - FSJEQJ 2019 
+# HOW TO REACTJS - 2019 
 ---
 
 ### Quick start with React.js 🚀 ..
