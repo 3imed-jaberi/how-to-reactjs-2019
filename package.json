@@ -1,11 +1,11 @@
 {
-  "name": "how-to-reactjs-fsjegj-2019",
+  "name": "how-to-reactjs-2019",
   "version": "1.0.0",
   "private": true,
   "description": " Quick start with React.js 🚀 .. ",
   "repository": {
     "type": "git",
-    "url": "git@github.com:3imed-jaberi/how-to-reactjs-fsjegj-2019.git"
+    "url": "git@github.com:3imed-jaberi/how-to-reactjs-2019.git"
   },
   "keywords": [
     "react",
@@ -14,9 +14,9 @@
     "jsx",
     "spa",
     "front-end",
+    "isamm",
     "fsjegj",
-    "workshop",
-    "jandouba"
+    "workshop"
   ],
   "author": {
     "name": "imed jaberi",
@@ -30,17 +30,22 @@
     "yarn": ">=1"
   },
   "dependencies": {
+    "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "setup": "yarn",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "server-setup": "cd ./FAKE API && yarn",
+    "server-dev": "cd ./FAKE API && yarn run useModel index.js",
     "lint": "eslint ."
   },
   "eslintConfig": {
@@ -59,7 +64,7 @@
     ]
   },
   "bugs": {
-    "url": "git+https://github.com/3imed-jaberi/how-to-reactjs-fsjegj-2019/issues"
+    "url": "git+https://github.com/3imed-jaberi/how-to-reactjs-2019/issues"
   },
-  "homepage": "https://github.com/3imed-jaberi/how-to-reactjs-fsjegj-2019#readme"
+  "homepage": "https://github.com/3imed-jaberi/how-to-reactjs-2019#readme"
 }
